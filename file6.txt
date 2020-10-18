@@ -1,1 +1,2 @@
 this is unstaged file for examole of git reset cmd
+this file was edited using AMI by git bash
